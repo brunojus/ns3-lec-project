@@ -1,0 +1,13 @@
+##ns3-lec3-project3
+###一、系统日志信息截图（能看到计算机用户名）
+![weibo]()
+###二、Tracing的两种信道文件（每种信道各有两种）
+![weibo]()
+###三、PyViz截图
+![weibo]()
+###四、Wireshark查看文件截图
+![weibo]()
+###五、使用Gnuplot或Matlab处理数据
+###六、安装步骤文档
+####a.PyViz安装
+####b.Wireshark安装
