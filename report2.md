@@ -19,6 +19,6 @@
 
         将LAN2网络中的n8,n5,n6,n7分别作为client1、2、3、4，将LAN1网络中的n4作为server。
 ##三、STA移动模型部分代码截图
-![weibo](http://ww3.sinaimg.cn/mw690/e75b2095gw1f58neeh6gaj20gm044wgf.jpg)
+![weibo](http://ww1.sinaimg.cn/mw1024/e5334a89gw1f5fu97zt5yj20hs04z76b.jpg)
 
         移动模型代码如图所示。
