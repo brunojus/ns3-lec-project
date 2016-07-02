@@ -20,14 +20,19 @@
 ###五、安装步骤文档
 ####a.PyViz安装
    在命令行键入如下语句：
-   sudo apt-get install python-dev python-pygraphviz python-kiwi python-pygoocanvas python-gnome2 python-rsvg
+
+    sudo apt-get install python-dev python-pygraphviz python-kiwi python-pygoocanvas python-gnome2 python-rsvg
 ####b.Wireshark安装
    在命令行键入如下语句：
-   sudo apt-get install wireshark
-   更改权限：#sudo groupadd wireshark
-             #sudo chgrp wireshark /usr/bin/dumpcap 
-             #sudo chmod 4755 /usr/bin/dumpcap 
-             #sudo gpasswd -a zhangwei wireshark 
+
+    sudo apt-get install wireshark
+   更改权限：
+
+    #sudo groupadd wireshark
+    #sudo chgrp wireshark /usr/bin/dumpcap 
+    #sudo chmod 4755 /usr/bin/dumpcap 
+    #sudo gpasswd -a zhangwei wireshark 
 ####c.Gnuplot安装
    在命令行键入如下语句：
-   sudo apt-get install gnuplot
+
+    sudo apt-get install gnuplot
