@@ -13,8 +13,10 @@
 ![weibo](http://ww4.sinaimg.cn/mw690/e75b2095gw1f5gun22y9oj20i20ebjtd.jpg)
 
     PyViz截图如图所示，图二为运行中的拓扑图。
+    从上图可以看出，两个ap分别位于六边形的中心，六个位于六边形顶角。ap与ap之间相距50m。
 ###三、Tracing的两种信道文件（每种信道各有两种）
 ![weibo](http://ww2.sinaimg.cn/mw690/e75b2095gw1f5gun2iq76j20eg06q0t7.jpg)
 ![weibo](http://ww2.sinaimg.cn/mw690/e75b2095gw1f5gv9qi6ruj20k404amyn.jpg)
 
     如上图所示为生成的Tacing文件。
+    分别用ASCII tracing和PCAP Tracing输出了.tr文件和.pcap文件。
